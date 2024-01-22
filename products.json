@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Set armbandjes",
+        "price": 3.99,
+        "image": "foto.jpg"
+    },
+    {
+        "name": "Gouden set armbandjes",
+        "price": 4.99,
+        "image": "foto7.jpg"
+    },
+    {
+        "name": "Vierwindstreken armband",
+        "price": 2.99,
+        "image": "foto3.jpg"
+    },
+    {
+        "name": "Veer armband",
+        "price": 2.99,
+        "image": "foto4.jpg"
+    }
+]

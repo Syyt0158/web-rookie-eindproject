@@ -1,0 +1,99 @@
+.card {
+    height: 100%;
+}
+
+.color-selector {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.color-option {
+    display: none;
+}
+
+.color-label {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    cursor: pointer;
+    margin: 0 5px;
+    border: 2px solid transparent;
+}
+
+.color-input:checked+.color-label {
+    border-color: #333;
+}
+
+.card {
+    height: 100%;
+}
+
+.color-circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.color-circle.selected {
+    border: 2px solid #000;
+}
+
+.afrekenen {
+    width: 200px;
+}
+
+#cart-items {
+    display: flex;
+    justify-content: center;
+}
+
+.afrekenen {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+}
+
+#total-price {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+/* Voeg deze CSS-stijlen toe aan je style.css-bestand of inline in de HTML-head */
+
+.product-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.product {
+    width: 23%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+}
+
+.product img {
+    max-width: 100%;
+    height: auto;
+}
+
+.product {
+    width: 50px;
+    margin: 10px;
+}
